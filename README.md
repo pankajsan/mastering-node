@@ -1,2 +1,2 @@
 # mastering-node
-Master Node JS &amp; Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL &amp; much more!
+Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!
